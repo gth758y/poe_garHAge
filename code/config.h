@@ -12,7 +12,7 @@
 #define MQTT_BROKER "10.99.1.23"
 #define MQTT_CLIENTID "GarHAge_PoE"
 #define MQTT_USERNAME "tyler"
-#define MQTT_PASSWORD "gotohell"
+#define MQTT_PASSWORD "xxxxxxxx"
 
 // Relay Parameters
 
