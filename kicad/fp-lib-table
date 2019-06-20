@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LoadCell_KiCAD)(type KiCad)(uri "Z:/00 - tyler/arduino projects/bed_occupancy/LoadCell_KiCAD")(options "")(descr ""))
+  (lib (name rescue-backup)(type KiCad)(uri "Z:/00 - tyler/arduino projects/bed_occupancy/LoadCell_KiCAD/rescue-backup")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LoadCell-cache)(type Legacy)(uri "Z:/00 - tyler/arduino projects/bed_occupancy/LoadCell_KiCAD/LoadCell-cache.lib")(options "")(descr ""))
+  (lib (name LoadCell-rescue)(type Legacy)(uri "Z:/00 - tyler/arduino projects/bed_occupancy/LoadCell_KiCAD/LoadCell-rescue.lib")(options "")(descr ""))
+)
